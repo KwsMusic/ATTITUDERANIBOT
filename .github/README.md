@@ -1,4 +1,4 @@
-<h1 align="center"><b>❤️ ALEXA MUSIC 3.0 ❤️</b></h1>
+<h1 align="center"><b>❤️ ATTITUDE RANI 3.0 ❤️</b></h1>
 
 <h4 align="center">Alexa A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...</h4>
 
@@ -131,8 +131,8 @@
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
+- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/MUSICBOT_OWNER)
+- [ʜᴀʀsʜɪᴛ](https://t.me/II_ASHISH_GUPTA_IIl)
 - [Abhimanyu](https://t.me/Itz_Venom_xD)
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
 
@@ -142,8 +142,8 @@
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴍᴜᴋᴜ](https://t.me/LEGEND_MUKUND)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [ᴍᴜᴋᴜ](https://t.me/II_ASHISH_GUPTA_IIl)
+- [ᴅᴇᴠɪʟ](https://t.me/IPSKING1)
 
 </details>
 
